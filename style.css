@@ -1,9 +1,21 @@
 body {
     background-color: brown;
     text-align: center;
+    margin: 0px;
 }
 .p1 {
+    font-style: normal;
     color: blue);
 }
 
-.p2
+.p2 {
+    font-style:normal;
+    color: blue;
+}
+
+header {
+    border-bottom: rgb(226, 204, 162);
+    padding: 20px;
+    font-size: 18px;
+    text-decoration: black;
+}
