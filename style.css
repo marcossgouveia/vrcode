@@ -10,12 +10,13 @@ body {
 
 .p2 {
     font-style:normal;
-    color: blue;
+    color: rgb(0, 81, 255);
 }
 
 header {
     border-bottom: rgb(226, 204, 162);
+    margin-top: 5px;
     padding: 20px;
-    font-size: 18px;
+    font-size: 10px;
     text-decoration: black;
 }
