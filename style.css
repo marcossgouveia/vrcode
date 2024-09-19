@@ -5,11 +5,13 @@ body {
 }
 .p1 {
     font-style: normal;
+    font-size: large ;
     color: rgb(2, 2, 2));
 }
 
 .p2 {
     font-style:normal;
+    font-size: large;
     color: rgb(2, 2, 2);
 }
 
