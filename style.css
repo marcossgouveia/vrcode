@@ -5,13 +5,13 @@ body {
 }
 .p1 {
     font-style: normal;
-    font-size: large ;
+    font-size: 18px ;
     color: rgb(2, 2, 2));
 }
 
 .p2 {
     font-style:normal;
-    font-size: large;
+    font-size: 18px;
     color: rgb(2, 2, 2);
 }
 
@@ -22,3 +22,4 @@ header {
     font-size: 10px;
     text-decoration: black;
 }
+
