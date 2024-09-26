@@ -23,4 +23,16 @@ header {
     text-decoration: black;
 }
 
+section {
+    background:
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.PRIMEIRA {
+    margin-right: 5%;
+}
+
 
