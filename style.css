@@ -31,6 +31,12 @@ header {
     justify-content: center;
 }
 
-.
+.SEGUNDO {
+    background: fixed;
+    padding-bottom: 10 px;
+    padding-top: 10 px;
+    display:flex;
+    justify-content:center;
+}
 
 
